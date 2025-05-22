@@ -1,0 +1,19 @@
+{
+  "name": "taskfortelegramm",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "grammy": "^1.36.1",
+    "input": "^1.0.1",
+    "nodemon": "^3.1.10",
+    "telegram": "^2.26.22"
+  }
+}
